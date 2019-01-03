@@ -1,0 +1,435 @@
+﻿DATE,REGION,DESCRIPTION,PUBLIC_HOLIDAY,SPORTS_EVENT
+2020-01-26,ALL,Australia Day,1,0
+2020-01-01,ALL,New Years Day,1,0
+2019-12-31,ALL,New Years Eve,0,0
+2019-12-26,ALL,Boxing Day,1,0
+2019-12-25,ALL,Christmas Day,1,0
+2019-11-05,VIC,Melbourne Cup Holiday,1,1
+2019-11-05,NSW,Melbourne Cup,0,1
+2019-11-05,QLD,Melbourne Cup,0,1
+2019-11-05,SA ,Melbourne Cup,0,1
+2019-11-05,WA ,Melbourne Cup,0,1
+2019-10-13,ALL,V8 Supercars: Bathurst,0,1
+2019-10-07,NSW,Labour Day,1,0
+2019-10-07,QLD,Queens Birthday,1,0
+2019-10-07,SA ,Labour Day,1,0
+2019-09-29,ALL,NRL Grand Final,0,1
+2019-09-28,NSW,AFL Grand Final,0,1
+2019-09-28,VIC,AFL Grand Final,0,1
+2019-09-28,QLD,AFL Grand Final,0,1
+2019-09-28,SA ,AFL Grand Final,0,1
+2019-09-28,WA ,AFL Grand Final,0,1
+2019-09-27,VIC,AFL Grand Final Public Holiday,1,0
+2019-09-23,VIC,Brownlow Medal ,0,0
+2019-09-30,WA ,Queens Birthday,1,0
+2019-08-17,ALL,Bledisoe Cup Game 3,0,1
+2019-08-17,ALL,Bledisoe Cup Game 2,0,1
+2019-08-10,ALL,Bledisoe Cup Game 1,0,1
+2019-08-14,QLD,Royal Queensland Day,1,0
+2019-07-10,ALL,State of Origin 3rd Match,0,1
+2019-06-24,ALL,State of Origin 2nd Match,0,1
+2019-06-10,NSW,Queens Birthday,1,0
+2019-06-10,SA ,Queens Birthday,1,0
+2019-06-10,VIC,Queens Birthday,1,0
+2019-06-03,WA ,Western Australia Day,1,0
+2019-06-05,ALL,State of Origin 1st Match,0,1
+2019-05-12,ALL,Mothers Day,0,0
+2019-05-06,QLD,Labour Day,1,0
+2019-04-25,ALL,ANZAC Day,1,0
+2019-06-30,ALL,Logie Awards,0,0
+2019-04-22,ALL,Easter Monday,1,0
+2019-04-21,ALL,Easter Sunday,1,0
+2019-04-20,ALL,Easter Saturday,1,0
+2019-04-19,ALL,Good Friday,1,0
+2019-03-11,SA ,Adelaide Cup,1,0
+2019-03-11,VIC,Labour Day,1,0
+2019-03-04,WA ,Labour Day,1,0
+2019-02-24,ALL,Academy Awards,0,0
+2019-01-27,ALL,Australian Open Mens Final,0,1
+2019-01-26,ALL,Australian Open Womens Final,0,1
+2019-01-26,ALL,Australia Day,1,0
+2019-01-01,ALL,New Years Day,1,0
+2018-12-31,ALL,New Years Eve,0,0
+2018-12-26,ALL,Boxing Day,1,0
+2018-12-25,ALL,Christmas Day,1,0
+2018-11-06,VIC,Melbourne Cup Holiday,1,1
+2018-11-06,NSW,Melbourne Cup,0,1
+2018-11-06,QLD,Melbourne Cup,0,1
+2018-11-06,SA ,Melbourne Cup,0,1
+2018-11-06,WA ,Melbourne Cup,0,1
+2018-10-07,ALL,V8 Supercars: Bathurst,0,1
+2018-10-01,NSW,Labour Day,1,0
+2018-10-01,QLD,Queens Birthday,1,0
+2018-10-01,SA ,Labour Day,1,0
+2018-09-30,ALL,NRL Grand Final,0,1
+2018-09-29,NSW,AFL Grand Final,0,1
+2018-09-29,VIC,AFL Grand Final,0,1
+2018-09-29,QLD,AFL Grand Final,0,1
+2018-09-29,SA ,AFL Grand Final,0,1
+2018-09-29,WA ,AFL Grand Final,0,1
+2018-09-28,VIC,AFL Grand Final Public Holiday,1,0
+2018-09-24,VIC,Brownlow Medal ,0,0
+2018-09-24,WA ,Queens Birthday,1,0
+2018-10-20,ALL,Bledisoe Cup Game 3,0,1
+2018-08-25,ALL,Bledisoe Cup Game 2,0,1
+2018-08-18,ALL,Bledisoe Cup Game 1,0,1
+2018-08-15,QLD,Royal Queensland Day,1,0
+2018-07-11,ALL,State of Origin 3rd Match,0,1
+2018-06-20,ALL,State of Origin 2nd Match,0,1
+2018-06-11,NSW,Queens Birthday,1,0
+2018-06-11,SA ,Queens Birthday,1,0
+2018-06-11,VIC,Queens Birthday,1,0
+2018-06-04,WA ,Western Australia Day,1,0
+2018-05-30,ALL,State of Origin 1st Match,0,1
+2018-05-13,ALL,Mothers Day,0,0
+2018-05-07,QLD,Labour Day,1,0
+2018-04-25,ALL,ANZAC Day,1,0
+2018-07-01,ALL,Logie Awards,0,0
+2018-04-02,ALL,Easter Monday,1,0
+2018-04-01,ALL,Easter Sunday,1,0
+2018-03-31,ALL,Easter Saturday,1,0
+2018-03-30,ALL,Good Friday,1,0
+2018-03-12,SA ,Adelaide Cup,1,0
+2018-03-12,VIC,Labour Day,1,0
+2018-03-05,WA ,Labour Day,1,0
+2018-03-04,ALL,Academy Awards,0,0
+2018-01-28,ALL,Australian Open Mens Final,0,1
+2018-01-27,ALL,Australian Open Womens Final,0,1
+2018-01-26,ALL,Australia Day,1,0
+2018-01-01,ALL,New Years Day,1,0
+2017-12-31,ALL,New Years Eve,0,0
+2017-12-26,ALL,Boxing Day,1,0
+2017-12-25,ALL,Christmas Day,1,0
+2017-11-07,VIC,Melbourne Cup Holiday,1,1
+2017-11-07,NSW,Melbourne Cup,0,1
+2017-11-07,QLD,Melbourne Cup,0,1
+2017-11-07,SA ,Melbourne Cup,0,1
+2017-11-07,WA ,Melbourne Cup,0,1
+2017-10-08,ALL,V8 Supercars: Bathurst,0,1
+2017-10-02,NSW,Labour Day,1,0
+2017-10-02,QLD,Queens Birthday,1,0
+2017-10-02,SA ,Labour Day,1,0
+2017-10-01,ALL,NRL Grand Final,0,1
+2017-09-30,NSW,AFL Grand Final,0,1
+2017-09-30,VIC,AFL Grand Final,0,1
+2017-09-30,QLD,AFL Grand Final,0,1
+2017-09-30,SA ,AFL Grand Final,0,1
+2017-09-30,WA ,AFL Grand Final,0,1
+2017-09-29,VIC,AFL Grand Final Public Holiday,1,0
+2017-09-25,VIC,Brownlow Medal ,0,0
+2017-09-25,WA ,Queens Birthday,1,0
+2017-10-21,ALL,Bledisoe Cup Game 3,0,1
+2017-08-26,ALL,Bledisoe Cup Game 2,0,1
+2017-08-19,ALL,Bledisoe Cup Game 1,0,1
+2017-08-16,QLD,Royal Queensland Day,1,0
+2017-07-12,ALL,State of Origin 3rd Match,0,1
+2017-06-21,ALL,State of Origin 2nd Match,0,1
+2017-06-12,NSW,Queens Birthday,1,0
+2017-06-12,SA ,Queens Birthday,1,0
+2017-06-12,VIC,Queens Birthday,1,0
+2017-06-05,WA ,Western Australia Day,1,0
+2017-05-31,ALL,State of Origin 1st Match,0,1
+2017-05-14,ALL,Mothers Day,0,0
+2017-05-01,QLD,Labour Day,1,0
+2017-04-25,ALL,ANZAC Day,1,0
+2017-04-23,ALL,Logie Awards,0,0
+2017-04-17,ALL,Easter Monday,1,0
+2017-04-16,ALL,Easter Sunday,1,0
+2017-04-15,ALL,Easter Saturday,1,0
+2017-04-14,ALL,Good Friday,1,0
+2017-03-13,SA ,Adelaide Cup,1,0
+2017-03-13,VIC,Labour Day,1,0
+2017-03-06,WA ,Labour Day,1,0
+2017-02-26,ALL,Academy Awards,0,0
+2017-01-29,ALL,Australian Open Mens Final,0,1
+2017-01-28,ALL,Australian Open Womens Final,0,1
+2017-01-26,ALL,Australia Day,1,0
+2017-01-01,ALL,New Years Day,1,0
+2016-12-31,ALL,New Years Eve,0,0
+2016-12-26,ALL,Boxing Day,1,0
+2016-12-25,ALL,Christmas Day,1,0
+2016-11-01,VIC,Melbourne Cup Holiday,1,1
+2016-11-01,NSW,Melbourne Cup,0,1
+2016-11-01,QLD,Melbourne Cup,0,1
+2016-11-01,SA ,Melbourne Cup,0,1
+2016-11-01,WA ,Melbourne Cup,0,1
+2016-10-09,ALL,V8 Supercars: Bathurst,0,1
+2016-10-03,NSW,Labour Day,1,0
+2016-10-03,QLD,Queens Birthday,1,0
+2016-10-03,SA ,Labour Day,1,0
+2016-10-02,ALL,NRL Grand Final,0,1
+2016-10-01,NSW,AFL Grand Final,0,1
+2016-10-01,VIC,AFL Grand Final,0,1
+2016-10-01,QLD,AFL Grand Final,0,1
+2016-10-01,SA ,AFL Grand Final,0,1
+2016-10-01,WA ,AFL Grand Final,0,1
+2016-09-30,VIC,AFL Grand Final Public Holiday,1,0
+2016-09-26,VIC,Brownlow Medal ,0,0
+2016-09-26,WA ,Queens Birthday,1,0
+2016-10-22,ALL,Bledisoe Cup Game 3,0,1
+2016-08-27,ALL,Bledisoe Cup Game 2,0,1
+2016-08-20,ALL,Bledisoe Cup Game 1,0,1
+2016-08-10,QLD,Royal Queensland Day,1,0
+2016-07-13,ALL,State of Origin 3rd Match,0,1
+2016-06-22,ALL,State of Origin 2nd Match,0,1
+2016-06-13,NSW,Queens Birthday,1,0
+2016-06-13,SA ,Queens Birthday,1,0
+2016-06-13,VIC,Queens Birthday,1,0
+2016-06-06,WA ,Western Australia Day,1,0
+2016-06-01,ALL,State of Origin 1st Match,0,1
+2016-05-08,ALL,Mothers Day,0,0
+2016-05-02,QLD,Labour Day,1,0
+2016-04-25,ALL,ANZAC Day,1,0
+2016-05-08,ALL,Logie Awards,0,0
+2016-03-28,ALL,Easter Monday,1,0
+2016-03-27,ALL,Easter Sunday,1,0
+2016-03-26,ALL,Easter Saturday,1,0
+2016-03-25,ALL,Good Friday,1,0
+2016-03-14,SA ,Adelaide Cup,1,0
+2016-03-14,VIC,Labour Day,1,0
+2016-03-07,WA ,Labour Day,1,0
+2016-02-29,ALL,Academy Awards,0,0
+2016-01-31,ALL,Australian Open Mens Final,0,1
+2016-01-30,ALL,Australian Open Womens Final,0,1
+2016-01-26,ALL,Australia Day,1,0
+2016-01-01,ALL,New Years Day,1,0
+2015-12-31,ALL,New Years Eve,0,0
+2015-12-26,ALL,Boxing Day,1,0
+2015-12-25,ALL,Christmas Day,1,0
+2015-11-03,VIC,Melbourne Cup Holiday,1,1
+2015-11-03,NSW,Melbourne Cup,0,1
+2015-11-03,QLD,Melbourne Cup,0,1
+2015-11-03,SA ,Melbourne Cup,0,1
+2015-11-03,WA ,Melbourne Cup,0,1
+2015-10-11,ALL,V8 Supercars: Bathurst,0,1
+2015-10-05,NSW,Labour Day,1,0
+2015-06-08,QLD,Queens Birthday,1,0
+2015-10-05,SA ,Labour Day,1,0
+2015-10-04,ALL,NRL Grand Final,0,1
+2015-10-03,NSW,AFL Grand Final,0,1
+2015-10-03,VIC,AFL Grand Final,0,1
+2015-10-03,QLD,AFL Grand Final,0,1
+2015-10-03,SA ,AFL Grand Final,0,1
+2015-10-03,WA ,AFL Grand Final,0,1
+2015-10-02,VIC,AFL Grand Final Public Holiday,1,0
+2015-09-28,VIC,Brownlow Medal ,0,0
+2015-09-28,WA ,Queens Birthday,1,0
+2015-08-15,ALL,Bledisoe Cup Game 3,0,1
+2015-08-15,ALL,Bledisoe Cup Game 2,0,1
+2015-08-08,ALL,Bledisoe Cup Game 1,0,1
+2015-08-12,QLD,Royal Queensland Day,1,0
+2015-07-08,ALL,State of Origin 3rd Match,0,1
+2015-06-17,ALL,State of Origin 2nd Match,0,1
+2015-06-08,NSW,Queens Birthday,1,0
+2015-06-08,SA ,Queens Birthday,1,0
+2015-06-08,VIC,Queens Birthday,1,0
+2015-06-01,WA ,Western Australia Day,1,0
+2015-05-27,ALL,State of Origin 1st Match,0,1
+2015-05-10,ALL,Mothers Day,0,0
+2015-10-05,QLD,Labour Day,1,0
+2015-04-25,ALL,ANZAC Day,1,0
+2015-05-03,ALL,Logie Awards,0,0
+2015-04-06,ALL,Easter Monday,1,0
+2015-04-05,ALL,Easter Sunday,1,0
+2015-04-04,ALL,Easter Saturday,1,0
+2015-04-03,ALL,Good Friday,1,0
+2015-03-09,SA ,Adelaide Cup,1,0
+2015-03-09,VIC,Labour Day,1,0
+2015-03-02,WA ,Labour Day,1,0
+2015-02-22,ALL,Academy Awards,0,0
+2015-02-01,ALL,Australian Open Mens Final,0,1
+2015-01-31,ALL,Australian Open Womens Final,0,1
+2015-01-26,ALL,Australia Day,1,0
+2015-01-01,ALL,New Years Day,1,0
+2014-12-31,ALL,New Years Eve,0,0
+2014-12-26,ALL,Boxing Day,1,0
+2014-12-25,ALL,Christmas Day,1,0
+2014-11-04,VIC,Melbourne Cup Holiday,1,1
+2014-11-04,NSW,Melbourne Cup,0,1
+2014-11-04,QLD,Melbourne Cup,0,1
+2014-11-04,SA ,Melbourne Cup,0,1
+2014-11-04,WA ,Melbourne Cup,0,1
+2014-10-12,ALL,V8 Supercars: Bathurst,0,1
+2014-10-06,NSW,Labour Day,1,0
+2014-06-09,QLD,Queens Birthday,1,0
+2014-10-06,SA ,Labour Day,1,0
+2014-10-05,ALL,NRL Grand Final,0,1
+2014-09-27,NSW,AFL Grand Final,0,1
+2014-09-27,VIC,AFL Grand Final,0,1
+2014-09-27,QLD,AFL Grand Final,0,1
+2014-09-27,SA ,AFL Grand Final,0,1
+2014-09-27,WA ,AFL Grand Final,0,1
+2014-09-26,VIC,AFL Grand Final Public Holiday,1,0
+2014-09-22,VIC,Brownlow Medal ,0,0
+2014-09-29,WA ,Queens Birthday,1,0
+2014-10-18,ALL,Bledisoe Cup Game 3,0,1
+2014-08-23,ALL,Bledisoe Cup Game 2,0,1
+2014-08-16,ALL,Bledisoe Cup Game 1,0,1
+2014-08-13,QLD,Royal Queensland Day,1,0
+2014-07-09,ALL,State of Origin 3rd Match,0,1
+2014-06-18,ALL,State of Origin 2nd Match,0,1
+2014-06-09,NSW,Queens Birthday,1,0
+2014-06-09,SA ,Queens Birthday,1,0
+2014-06-09,VIC,Queens Birthday,1,0
+2014-06-02,WA ,Western Australia Day,1,0
+2014-05-28,ALL,State of Origin 1st Match,0,1
+2014-05-11,ALL,Mothers Day,0,0
+2014-05-05,QLD,Labour Day,1,0
+2014-04-25,ALL,ANZAC Day,1,0
+2014-04-27,ALL,Logie Awards,0,0
+2014-04-21,ALL,Easter Monday,1,0
+2014-04-20,ALL,Easter Sunday,1,0
+2014-04-19,ALL,Easter Saturday,1,0
+2014-04-18,ALL,Good Friday,1,0
+2014-03-10,SA ,Adelaide Cup,1,0
+2014-03-10,VIC,Labour Day,1,0
+2014-03-03,WA ,Labour Day,1,0
+2014-03-03,ALL,Academy Awards,0,0
+2014-01-26,ALL,Australian Open Mens Final,0,1
+2014-01-25,ALL,Australian Open Womens Final,0,1
+2014-01-26,ALL,Australia Day,1,0
+2014-01-01,ALL,New Years Day,1,0
+2013-12-31,ALL,New Years Eve,0,0
+2013-12-26,ALL,Boxing Day,1,0
+2013-12-25,ALL,Christmas Day,1,0
+2013-11-05,VIC,Melbourne Cup Holiday,1,1
+2013-11-05,NSW,Melbourne Cup,0,1
+2013-11-05,QLD,Melbourne Cup,0,1
+2013-11-05,SA ,Melbourne Cup,0,1
+2013-11-05,WA ,Melbourne Cup,0,1
+2013-10-13,ALL,V8 Supercars: Bathurst,0,1
+2013-10-07,NSW,Labour Day,1,0
+2013-06-10,QLD,Queens Birthday,1,0
+2013-10-07,SA ,Labour Day,1,0
+2013-10-06,ALL,NRL Grand Final,0,1
+2013-09-28,NSW,AFL Grand Final,0,1
+2013-09-28,VIC,AFL Grand Final,0,1
+2013-09-28,QLD,AFL Grand Final,0,1
+2013-09-28,SA ,AFL Grand Final,0,1
+2013-09-28,WA ,AFL Grand Final,0,1
+2013-09-27,VIC,AFL Grand Final Public Holiday,1,0
+2013-09-23,VIC,Brownlow Medal ,0,0
+2013-09-30,WA ,Queens Birthday,1,0
+2013-10-19,ALL,Bledisoe Cup Game 3,0,1
+2013-08-24,ALL,Bledisoe Cup Game 2,0,1
+2013-08-17,ALL,Bledisoe Cup Game 1,0,1
+2013-08-14,QLD,Royal Queensland Day,1,0
+2013-07-17,ALL,State of Origin 3rd Match,0,1
+2013-06-26,ALL,State of Origin 2nd Match,0,1
+2013-06-10,NSW,Queens Birthday,1,0
+2013-06-10,SA ,Queens Birthday,1,0
+2013-06-10,VIC,Queens Birthday,1,0
+2013-06-03,WA ,Western Australia Day,1,0
+2013-06-05,ALL,State of Origin 1st Match,0,1
+2013-05-12,ALL,Mothers Day,0,0
+2013-10-07,QLD,Labour Day,1,0
+2013-04-25,ALL,ANZAC Day,1,0
+2013-04-07,ALL,Logie Awards,0,0
+2013-04-01,ALL,Easter Monday,1,0
+2013-03-31,ALL,Easter Sunday,1,0
+2013-03-30,ALL,Easter Saturday,1,0
+2013-03-29,ALL,Good Friday,1,0
+2013-03-11,SA ,Adelaide Cup,1,0
+2013-03-11,VIC,Labour Day,1,0
+2013-03-04,WA ,Labour Day,1,0
+2013-02-24,ALL,Academy Awards,0,0
+2013-01-27,ALL,Australian Open Mens Final,0,1
+2013-01-26,ALL,Australian Open Womens Final,0,1
+2013-01-26,ALL,Australia Day,1,0
+2013-01-01,ALL,New Years Day,1,0
+2012-12-31,ALL,New Years Eve,0,0
+2012-12-26,ALL,Boxing Day,1,0
+2012-12-25,ALL,Christmas Day,1,0
+2012-11-06,VIC,Melbourne Cup Holiday,1,1
+2012-11-06,NSW,Melbourne Cup,0,1
+2012-11-06,QLD,Melbourne Cup,0,1
+2012-11-06,SA ,Melbourne Cup,0,1
+2012-11-06,WA ,Melbourne Cup,0,1
+2012-10-07,ALL,V8 Supercars: Bathurst,0,1
+2012-10-01,NSW,Labour Day,1,0
+2012-06-11,QLD,Queens Birthday,1,0
+2012-10-01,SA ,Labour Day,1,0
+2012-09-30,ALL,NRL Grand Final,0,1
+2012-09-29,NSW,AFL Grand Final,0,1
+2012-09-29,VIC,AFL Grand Final,0,1
+2012-09-29,QLD,AFL Grand Final,0,1
+2012-09-29,SA ,AFL Grand Final,0,1
+2012-09-29,WA ,AFL Grand Final,0,1
+2012-09-28,VIC,AFL Grand Final Public Holiday,1,0
+2012-09-24,VIC,Brownlow Medal ,0,0
+2012-10-01,WA ,Queens Birthday,1,0
+2012-10-20,ALL,Bledisoe Cup Game 3,0,1
+2012-08-25,ALL,Bledisoe Cup Game 2,0,1
+2012-08-18,ALL,Bledisoe Cup Game 1,0,1
+2012-08-15,QLD,Royal Queensland Day,1,0
+2012-07-04,ALL,State of Origin 3rd Match,0,1
+2012-06-13,ALL,State of Origin 2nd Match,0,1
+2012-06-11,NSW,Queens Birthday,1,0
+2012-06-10,SA ,Queens Birthday,1,0
+2012-06-11,VIC,Queens Birthday,1,0
+2012-06-04,WA ,Western Australia Day,1,0
+2012-05-23,ALL,State of Origin 1st Match,0,1
+2012-05-13,ALL,Mothers Day,0,0
+2012-05-07,QLD,Labour Day,1,0
+2012-04-25,ALL,ANZAC Day,1,0
+2012-04-15,ALL,Logie Awards,0,0
+2012-04-09,ALL,Easter Monday,1,0
+2012-04-08,ALL,Easter Sunday,1,0
+2012-04-07,ALL,Easter Saturday,1,0
+2012-04-06,ALL,Good Friday,1,0
+2012-03-12,SA ,Adelaide Cup,1,0
+2012-03-12,VIC,Labour Day,1,0
+2012-03-05,WA ,Labour Day,1,0
+2012-02-26,ALL,Academy Awards,0,0
+2012-01-29,ALL,Australian Open Mens Final,0,1
+2012-01-28,ALL,Australian Open Womens Final,0,1
+2012-01-26,ALL,Australia Day,1,0
+2012-01-01,ALL,New Years Day,1,0
+2011-12-31,ALL,New Years Eve,0,0
+2011-12-26,ALL,Boxing Day,1,0
+2011-12-25,ALL,Christmas Day,1,0
+2011-11-01,VIC,Melbourne Cup Holiday,1,1
+2011-11-01,NSW,Melbourne Cup,0,1
+2011-11-01,QLD,Melbourne Cup,0,1
+2011-11-01,SA ,Melbourne Cup,0,1
+2011-11-01,WA ,Melbourne Cup,0,1
+2011-10-09,ALL,V8 Supercars: Bathurst,0,1
+2011-10-03,NSW,Labour Day,1,0
+2011-06-13,QLD,Queens Birthday,1,0
+2011-10-03,SA ,Labour Day,1,0
+2011-10-02,ALL,NRL Grand Final,0,1
+2011-10-01,NSW,AFL Grand Final,0,1
+2011-10-01,VIC,AFL Grand Final,0,1
+2011-10-01,QLD,AFL Grand Final,0,1
+2011-10-01,SA ,AFL Grand Final,0,1
+2011-10-01,WA ,AFL Grand Final,0,1
+2011-09-30,VIC,AFL Grand Final Public Holiday,1,0
+2011-09-26,VIC,Brownlow Medal ,0,0
+2011-10-28,WA ,Queens Birthday,1,0
+2011-08-27,ALL,Bledisoe Cup Game 3,0,1
+2011-08-27,ALL,Bledisoe Cup Game 2,0,1
+2011-08-06,ALL,Bledisoe Cup Game 1,0,1
+2011-08-17,QLD,Royal Queensland Day,1,0
+2011-07-06,ALL,State of Origin 3rd Match,0,1
+2011-06-15,ALL,State of Origin 2nd Match,0,1
+2011-06-13,NSW,Queens Birthday,1,0
+2011-06-13,SA ,Queens Birthday,1,0
+2011-06-13,VIC,Queens Birthday,1,0
+2011-06-06,WA ,Western Australia Day,1,0
+2011-05-25,ALL,State of Origin 1st Match,0,1
+2011-05-08,ALL,Mothers Day,0,0
+2011-05-02,QLD,Labour Day,1,0
+2011-04-25,ALL,ANZAC Day,1,0
+2011-05-01,ALL,Logie Awards,0,0
+2011-04-25,ALL,Easter Monday,1,0
+2011-04-24,ALL,Easter Sunday,1,0
+2011-04-23,ALL,Easter Saturday,1,0
+2011-04-22,ALL,Good Friday,1,0
+2011-03-14,SA ,Adelaide Cup,1,0
+2011-03-14,VIC,Labour Day,1,0
+2011-03-07,WA ,Labour Day,1,0
+2011-02-27,ALL,Academy Awards,0,0
+2011-01-30,ALL,Australian Open Mens Final,0,1
+2011-01-29,ALL,Australian Open Womens Final,0,1
+2011-01-26,ALL,Australia Day,1,0
+2011-01-01,ALL,New Years Day,1,0
