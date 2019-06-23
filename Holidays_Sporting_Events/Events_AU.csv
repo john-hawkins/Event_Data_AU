@@ -1,4 +1,102 @@
 ﻿DATE,REGION,DESCRIPTION,PUBLIC_HOLIDAY,SPORTS_EVENT
+2022-01-26,ALL,Australia Day,1,0
+2022-01-01,ALL,New Years Day,1,0
+2021-12-31,ALL,New Years Eve,0,0
+2021-12-26,ALL,Boxing Day,1,0
+2021-12-25,ALL,Christmas Day,1,0
+2021-11-02,VIC,Melbourne Cup Holiday,1,1
+2021-11-02,NSW,Melbourne Cup,0,1
+2021-11-02,QLD,Melbourne Cup,0,1
+2021-11-02,SA ,Melbourne Cup,0,1
+2021-11-02,WA ,Melbourne Cup,0,1
+2021-10-10,ALL,V8 Supercars: Bathurst,0,1
+2021-10-04,NSW,Labour Day,1,0
+2021-10-04,QLD,Queens Birthday,1,0
+2021-10-04,SA ,Labour Day,1,0
+2021-09-26,ALL,NRL Grand Final,0,1
+2021-09-25,NSW,AFL Grand Final,0,1
+2021-09-25,VIC,AFL Grand Final,0,1
+2021-09-25,QLD,AFL Grand Final,0,1
+2021-09-25,SA ,AFL Grand Final,0,1
+2021-09-25,WA ,AFL Grand Final,0,1
+2021-09-24,VIC,AFL Grand Final Public Holiday,1,0
+2021-09-20,VIC,Brownlow Medal ,0,0
+2021-09-27,WA ,Queens Birthday,1,0
+2021-09-05,ALL,Fathers Day,0,0
+,ALL,Bledisoe Cup Game 3,0,1
+,ALL,Bledisoe Cup Game 2,0,1
+,ALL,Bledisoe Cup Game 1,0,1
+2021-08-11,QLD,Royal Queensland Day,1,0
+,ALL,State of Origin 3rd Match,0,1
+,ALL,State of Origin 2nd Match,0,1
+2021-06-14,NSW,Queens Birthday,1,0
+2021-06-14,SA ,Queens Birthday,1,0
+2021-06-14,VIC,Queens Birthday,1,0
+2021-06-07,WA ,Western Australia Day,1,0
+,ALL,State of Origin 1st Match,0,1
+2021-05-09,ALL,Mothers Day,0,0
+2021-05-03,QLD,Labour Day,1,0
+2021-04-25,ALL,ANZAC Day,1,0
+2021-06-27,ALL,Logie Awards,0,0
+2021-04-05,ALL,Easter Monday,1,0
+2021-04-04,ALL,Easter Sunday,1,0
+2021-04-03,ALL,Easter Saturday,1,0
+2021-04-02,ALL,Good Friday,1,0
+2021-03-08,SA ,Adelaide Cup,1,0
+2021-03-08,VIC,Labour Day,1,0
+2021-03-01,WA ,Labour Day,1,0
+2021-02-28,ALL,Academy Awards,0,0
+2021-01-31,ALL,Australian Open Mens Final,0,1
+2021-01-30,ALL,Australian Open Womens Final,0,1
+2021-01-26,ALL,Australia Day,1,0
+2021-01-01,ALL,New Years Day,1,0
+2020-12-31,ALL,New Years Eve,0,0
+2020-12-26,ALL,Boxing Day,1,0
+2020-12-25,ALL,Christmas Day,1,0
+2020-11-03,VIC,Melbourne Cup Holiday,1,1
+2020-11-03,NSW,Melbourne Cup,0,1
+2020-11-03,QLD,Melbourne Cup,0,1
+2020-11-03,SA ,Melbourne Cup,0,1
+2020-11-03,WA ,Melbourne Cup,0,1
+2020-10-11,ALL,V8 Supercars: Bathurst,0,1
+2020-10-05,NSW,Labour Day,1,0
+2020-10-05,QLD,Queens Birthday,1,0
+2020-10-05,SA ,Labour Day,1,0
+2020-09-27,ALL,NRL Grand Final,0,1
+2020-09-26,NSW,AFL Grand Final,0,1
+2020-09-26,VIC,AFL Grand Final,0,1
+2020-09-26,QLD,AFL Grand Final,0,1
+2020-09-26,SA ,AFL Grand Final,0,1
+2020-09-26,WA ,AFL Grand Final,0,1
+2020-09-25,VIC,AFL Grand Final Public Holiday,1,0
+2020-09-21,VIC,Brownlow Medal ,0,0
+2020-09-28,WA ,Queens Birthday,1,0
+2020-09-06,ALL,Fathers Day,0,0
+,ALL,Bledisoe Cup Game 3,0,1
+,ALL,Bledisoe Cup Game 2,0,1
+,ALL,Bledisoe Cup Game 1,0,1
+2020-08-12,QLD,Royal Queensland Day,1,0
+,ALL,State of Origin 3rd Match,0,1
+,ALL,State of Origin 2nd Match,0,1
+2020-06-08,NSW,Queens Birthday,1,0
+2020-06-08,SA ,Queens Birthday,1,0
+2020-06-08,VIC,Queens Birthday,1,0
+2020-06-01,WA ,Western Australia Day,1,0
+,ALL,State of Origin 1st Match,0,1
+2020-05-10,ALL,Mothers Day,0,0
+2020-05-04,QLD,Labour Day,1,0
+2020-04-25,ALL,ANZAC Day,1,0
+2020-06-28,ALL,Logie Awards,0,0
+2020-04-13,ALL,Easter Monday,1,0
+2020-04-12,ALL,Easter Sunday,1,0
+2020-04-11,ALL,Easter Saturday,1,0
+2020-04-10,ALL,Good Friday,1,0
+2020-03-09,SA ,Adelaide Cup,1,0
+2020-03-09,VIC,Labour Day,1,0
+2020-03-02,WA ,Labour Day,1,0
+2020-02-23,ALL,Academy Awards,0,0
+2020-02-02,ALL,Australian Open Mens Final,0,1
+2020-02-01,ALL,Australian Open Womens Final,0,1
 2020-01-26,ALL,Australia Day,1,0
 2020-01-01,ALL,New Years Day,1,0
 2019-12-31,ALL,New Years Eve,0,0
@@ -22,6 +120,7 @@
 2019-09-27,VIC,AFL Grand Final Public Holiday,1,0
 2019-09-23,VIC,Brownlow Medal ,0,0
 2019-09-30,WA ,Queens Birthday,1,0
+2019-09-01,ALL,Fathers Day,0,0
 2019-08-17,ALL,Bledisoe Cup Game 3,0,1
 2019-08-17,ALL,Bledisoe Cup Game 2,0,1
 2019-08-10,ALL,Bledisoe Cup Game 1,0,1
@@ -70,6 +169,7 @@
 2018-09-28,VIC,AFL Grand Final Public Holiday,1,0
 2018-09-24,VIC,Brownlow Medal ,0,0
 2018-09-24,WA ,Queens Birthday,1,0
+2018-09-02,ALL,Fathers Day,0,0
 2018-10-20,ALL,Bledisoe Cup Game 3,0,1
 2018-08-25,ALL,Bledisoe Cup Game 2,0,1
 2018-08-18,ALL,Bledisoe Cup Game 1,0,1
@@ -118,6 +218,7 @@
 2017-09-29,VIC,AFL Grand Final Public Holiday,1,0
 2017-09-25,VIC,Brownlow Medal ,0,0
 2017-09-25,WA ,Queens Birthday,1,0
+2017-09-03,ALL,Fathers Day,0,0
 2017-10-21,ALL,Bledisoe Cup Game 3,0,1
 2017-08-26,ALL,Bledisoe Cup Game 2,0,1
 2017-08-19,ALL,Bledisoe Cup Game 1,0,1
@@ -166,6 +267,7 @@
 2016-09-30,VIC,AFL Grand Final Public Holiday,1,0
 2016-09-26,VIC,Brownlow Medal ,0,0
 2016-09-26,WA ,Queens Birthday,1,0
+2016-09-04,ALL,Fathers Day,0,0
 2016-10-22,ALL,Bledisoe Cup Game 3,0,1
 2016-08-27,ALL,Bledisoe Cup Game 2,0,1
 2016-08-20,ALL,Bledisoe Cup Game 1,0,1
@@ -214,6 +316,7 @@
 2015-10-02,VIC,AFL Grand Final Public Holiday,1,0
 2015-09-28,VIC,Brownlow Medal ,0,0
 2015-09-28,WA ,Queens Birthday,1,0
+2015-09-06,ALL,Fathers Day,0,0
 2015-08-15,ALL,Bledisoe Cup Game 3,0,1
 2015-08-15,ALL,Bledisoe Cup Game 2,0,1
 2015-08-08,ALL,Bledisoe Cup Game 1,0,1
@@ -262,6 +365,7 @@
 2014-09-26,VIC,AFL Grand Final Public Holiday,1,0
 2014-09-22,VIC,Brownlow Medal ,0,0
 2014-09-29,WA ,Queens Birthday,1,0
+2014-09-07,ALL,Fathers Day,0,0
 2014-10-18,ALL,Bledisoe Cup Game 3,0,1
 2014-08-23,ALL,Bledisoe Cup Game 2,0,1
 2014-08-16,ALL,Bledisoe Cup Game 1,0,1
@@ -310,6 +414,7 @@
 2013-09-27,VIC,AFL Grand Final Public Holiday,1,0
 2013-09-23,VIC,Brownlow Medal ,0,0
 2013-09-30,WA ,Queens Birthday,1,0
+2013-09-01,ALL,Fathers Day,0,0
 2013-10-19,ALL,Bledisoe Cup Game 3,0,1
 2013-08-24,ALL,Bledisoe Cup Game 2,0,1
 2013-08-17,ALL,Bledisoe Cup Game 1,0,1
@@ -357,6 +462,7 @@
 2012-09-29,WA ,AFL Grand Final,0,1
 2012-09-28,VIC,AFL Grand Final Public Holiday,1,0
 2012-09-24,VIC,Brownlow Medal ,0,0
+2012-09-02,ALL,Fathers Day,0,0
 2012-10-01,WA ,Queens Birthday,1,0
 2012-10-20,ALL,Bledisoe Cup Game 3,0,1
 2012-08-25,ALL,Bledisoe Cup Game 2,0,1
@@ -405,6 +511,7 @@
 2011-10-01,WA ,AFL Grand Final,0,1
 2011-09-30,VIC,AFL Grand Final Public Holiday,1,0
 2011-09-26,VIC,Brownlow Medal ,0,0
+2011-09-04,ALL,Fathers Day,0,0
 2011-10-28,WA ,Queens Birthday,1,0
 2011-08-27,ALL,Bledisoe Cup Game 3,0,1
 2011-08-27,ALL,Bledisoe Cup Game 2,0,1
