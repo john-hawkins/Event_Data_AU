@@ -1,4 +1,4 @@
-﻿DATE,REGION,DESCRIPTION,PUBLIC_HOLIDAY,SPORTS_EVENT
+DATE,REGION,DESCRIPTION,PUBLIC_HOLIDAY,SPORTS_EVENT
 2022-01-26,ALL,Australia Day,1,0
 2022-01-01,ALL,New Years Day,1,0
 2021-12-31,ALL,New Years Eve,0,0
@@ -27,13 +27,13 @@
 ,ALL,Bledisoe Cup Game 2,0,1
 ,ALL,Bledisoe Cup Game 1,0,1
 2021-08-11,QLD,Royal Queensland Day,1,0
-,ALL,State of Origin 3rd Match,0,1
-,ALL,State of Origin 2nd Match,0,1
+2021-07-14,ALL,State of Origin 3rd Match,0,1
+2021-06-27,ALL,State of Origin 2nd Match,0,1
 2021-06-14,NSW,Queens Birthday,1,0
 2021-06-14,SA ,Queens Birthday,1,0
 2021-06-14,VIC,Queens Birthday,1,0
 2021-06-07,WA ,Western Australia Day,1,0
-,ALL,State of Origin 1st Match,0,1
+2021-06-09,ALL,State of Origin 1st Match,0,1
 2021-05-09,ALL,Mothers Day,0,0
 2021-05-03,QLD,Labour Day,1,0
 2021-04-25,ALL,ANZAC Day,1,0
@@ -46,8 +46,8 @@
 2021-03-08,VIC,Labour Day,1,0
 2021-03-01,WA ,Labour Day,1,0
 2021-02-28,ALL,Academy Awards,0,0
-2021-01-31,ALL,Australian Open Mens Final,0,1
-2021-01-30,ALL,Australian Open Womens Final,0,1
+2021-02-21,ALL,Australian Open Mens Final,0,1
+2021-02-20,ALL,Australian Open Womens Final,0,1
 2021-01-26,ALL,Australia Day,1,0
 2021-01-01,ALL,New Years Day,1,0
 2020-12-31,ALL,New Years Eve,0,0
@@ -72,17 +72,18 @@
 2020-09-21,VIC,Brownlow Medal ,0,0
 2020-09-28,WA ,Queens Birthday,1,0
 2020-09-06,ALL,Fathers Day,0,0
-,ALL,Bledisoe Cup Game 3,0,1
-,ALL,Bledisoe Cup Game 2,0,1
-,ALL,Bledisoe Cup Game 1,0,1
+2020-11-07,ALL,Bledisoe Cup Game 4,0,1
+2020-10-31,ALL,Bledisoe Cup Game 3,0,1
+2020-10-18,ALL,Bledisoe Cup Game 2,0,1
+2020-10-11,ALL,Bledisoe Cup Game 1,0,1
 2020-08-12,QLD,Royal Queensland Day,1,0
-,ALL,State of Origin 3rd Match,0,1
-,ALL,State of Origin 2nd Match,0,1
+2020-11-18,ALL,State of Origin 3rd Match,0,1
+2020-11-11,ALL,State of Origin 2nd Match,0,1
 2020-06-08,NSW,Queens Birthday,1,0
 2020-06-08,SA ,Queens Birthday,1,0
 2020-06-08,VIC,Queens Birthday,1,0
 2020-06-01,WA ,Western Australia Day,1,0
-,ALL,State of Origin 1st Match,0,1
+2020-11-04,ALL,State of Origin 1st Match,0,1
 2020-05-10,ALL,Mothers Day,0,0
 2020-05-04,QLD,Labour Day,1,0
 2020-04-25,ALL,ANZAC Day,1,0
